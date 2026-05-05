@@ -1,0 +1,651 @@
+  [
+    {"id": 1,
+      "name": "Interactive Flat Panel & LFD 55 Inch",
+      "maincategory": "Educational Products",
+      "price": "On Request",
+      "description": "Screen Size 55″, UHD Resolution, OPS Compliance, Brightness 350-600 cd/m2, 10 / 20 Multi-Touch Technology, Powered By Android & Windows, Wireless Collaboration for Smart Classrooms, Meeting Rooms, Video conferencing & Wireless Collaboration",
+      "image": "/images/interactive_panel.jpg"},
+    {
+      "id": 2,
+      "name": "Interactive Flat Panel & LFD 65 Inch",
+      "maincategory": "Educational Products",
+      "price": "On Request",
+      "description": "Screen Size 65″, UHD Resolution, OPS Compliance, Brightness 350-600 cd/m2, 10 / 20 Multi-Touch Technology, Powered By Android & Windows, Wireless Collaboration for Smart Classrooms, Meeting Rooms, Video conferencing & Wireless Collaboration..",
+      "image": "/images/interactive_panel.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Interactive Flat Panel & LFD 75 Inch",
+      "maincategory": "Educational Products",
+      "price": "On Request",
+      "description": "Screen Size 75″, UHD Resolution, OPS Compliance, Brightness 350-600 cd/m2, 10 / 20 Multi-Touch Technology, Powered By Android & Windows, Wireless Collaboration for Smart Classrooms, Meeting Rooms, Video conferencing & Wireless Collaboration",
+      "image": "/images/interactive_panel.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Interactive Flat Panel & LFD 86 Inch",
+      "maincategory": "Educational Products",
+      "price": "On Request",
+      "description": "Screen Size 86″, UHD Resolution, OPS Compliance, Brightness 350-600 cd/m2, 10 / 20 Multi-Touch Technology, Powered By Android & Windows, Wireless Collaboration for Smart Classrooms, Meeting Rooms, Video conferencing & Wireless Collaboration",
+      "image": "/images/interactive_panel.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Interactive Flat Panel & LFD 98 Inch",
+      "maincategory": "Educational Products",
+      "price": "On Request",
+      "description": "Screen Size 98″, UHD Resolution, OPS Compliance, Brightness 350-600 cd/m2, 10 / 20 Multi-Touch Technology, Powered By Android & Windows, Wireless Collaboration for Smart Classrooms, Meeting Rooms, Video conferencing & Wireless Collaboration",
+      "image": "/images/interactive_panel.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Interactive Flat Panel & LFD 110 Inch",
+      "maincategory": "Educational Products",
+      "price": "On Request",
+      "description": "Screen Size 110″, UHD Resolution, OPS Compliance, Brightness 350-600 cd/m2, 10 / 20 Multi-Touch Technology, Powered By Android & Windows, Wireless Collaboration for Smart Classrooms, Meeting Rooms, Video conferencing & Wireless Collaboration",
+      "image": "/images/interactive_panel.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Interactive Flat Panel & LFD 120 Inch",
+      "maincategory": "Educational Products",
+      "price": "On Request",
+      "description": "Screen Size 120″, UHD Resolution, OPS Compliance, Brightness 350-600 cd/m2, 10 / 20 Multi-Touch Technology, Powered By Android & Windows, Wireless Collaboration for Smart Classrooms, Meeting Rooms, Video conferencing & Wireless Collaboration",
+      "image": "/images/interactive_panel.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Interactive Flat Panel & LFD 135 Inch",
+      "maincategory": "Educational Products",
+      "price": "On Request",
+      "description": "Screen Size 135″, UHD Resolution, OPS Compliance, Brightness 350-600 cd/m2, 10 / 20 Multi-Touch Technology, Powered By Android & Windows, Wireless Collaboration for Smart Classrooms, Meeting Rooms, Video conferencing & Wireless Collaboration",
+      "image": "/images/interactive_panel.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Interactive Flat Panel & LFD 150 Inch",
+      "maincategory": "Educational Products",
+      "price": "On Request",
+      "description": "Screen Size 150″, UHD Resolution, OPS Compliance, Brightness 350-600 cd/m2, 10 / 20 Multi-Touch Technology, Powered By Android & Windows, Wireless Collaboration for Smart Classrooms, Meeting Rooms, Video conferencing & Wireless Collaboration",
+      "image": "/images/interactive_panel.jpg"
+    },
+    {
+    "id": 10,
+    "name": "Interactive Flat Panel & LFD 55 Inch",
+    "maincategory": "Educational Products",
+    "price": "On Request",
+    "description": "Screen Size 55″, UHD Resolution, OPS Compliance, Brightness 350-600 cd/m2, 10 / 20 Multi-Touch Technology, Powered By Android & Windows, Wireless Collaboration for Smart Classrooms, Meeting Rooms, Video conferencing & Wireless Collaboration",
+    "image": "/images/interactive_panel.jpg"
+  },
+    {
+      "id": 11,
+      "name": "Digital All-in-One Podium",
+      "maincategory": "Educational Products",
+      "price": "On Request",
+      "description": "Integrated computing & built-in screen,Touch/interactive interface,Audio system (amplifier + speakers),Mic support (gooseneck/wireless),Connectivity for HDMI/USB/LAN",
+      "image": "/images/podium.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Digital Metal Podium",
+      "maincategory": "Educational Products",
+      "price": "On Request",
+      "description": "Metal construction with wheels,Inbuilt interactive touch monitor,Audio system (mic + amplifier + speakers),Controller for AV sources & inputs,Integrated USB/HDMI ports",
+      "image": "/images/podium.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Electronic Podium with Built-in PC",
+      "maincategory": "Educational Products",
+      "price": "On Request",
+      "description": "Built-in computing (e.g., Core-series CPU),Touch/annotation controls,HDMI/VGA/USB ports,Audio support",
+      "image": "/images/podium.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Digital Display Lectern",
+      "maincategory": "Educational Products",
+      "price": "On Request",
+      "description": "Large display integrated into podium,Supports content control & annotations,Audio and mic system built in,Cable/port connectivity for devices",
+      "image": "/images/podium.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Podium Audio & Mic System",
+      "maincategory": "Educational Products",
+      "price": "On Request",
+      "description": "PA audio setup,Mic stand (gooseneck/wireless),Amplifier and speaker integration",
+      "image": "/images/podium.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Podium PA Lectern System",
+      "maincategory": "Educational Products",
+      "price": "On Request",
+      "description": "Public address system,Mic and speaker support,Basic lectern for documents or laptop",
+      "image": "/images/podium.jpg"
+    },
+  {
+    "id": 17,
+    "name": "20 Watt Semi Integrated Solar Street Light",
+    "maincategory": "Solar Products",
+    "price": "On Request",
+    "description": "20 Watt Semi Integrated Solar Street Light, IP66, Pure white light, LED, Pipe mounting, ",
+    "image": "/images/solar_street_light.jpg"
+  },
+  {
+    "id": 18,
+    "name": "15W-36WLED Street Light",
+    "maincategory": "lights and Poles",
+    "price": "On Request",
+    "description": " Input Voltage:90-400 watt, Power: 50 w, Sensor, Usage: Outdoor, cool white, IP66, LED, Aluminium",
+    "image": "/images/Street_light.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Solar Hybrid Street Light",
+    "maincategory": "Solar Products",
+    "price": "On Request",
+    "description": "LED, Aluminium, IP66",
+    "image": "/images/solar_street_light.jpg"
+  },
+  {
+      "id": 20,
+    "name": "All In One Solar Street Light",
+    "maincategory": "Solar Products",
+    "price": "On Request",
+    "description": "LED, Metal, Space Between Lights:10 to 15mtr, IP55, Solar Charging Time:5to6 hours",
+    "image": "/images/solar_street_light.jpg"
+  },
+  {
+      "id": 21,
+    "name": "Outdoor Solar Led Street Lights",
+    "maincategory": "Solar Products",
+    "price": "On Request",
+    "description": "Input Voltage:10.8 v, Power: 12 w, Sensor, Usage: Outdoor, cool white, IP65, LED, Aluminium",
+    "image": "/images/solar_street_light.jpg"
+  },
+  { 
+      "id": 22,
+    "name": "40W-72W LED Street Light",
+    "maincategory": "lights and Poles",
+    "price": "On Request",
+    "description": "Input Voltage:90-400 watt, Power: 50 w, Sensor, Usage: Outdoor, cool white, IP66, LED, Aluminium",
+    "image": "/images/Street_light.jpg"
+  },
+  {
+      "id": 23,
+    "name": "75W-90W Led Street Light",
+    "maincategory": "lights and Poles",
+    "price": "On Request",
+    "description": "Input Voltage:90-400 watt, Power: 72 w, Sensor, Usage: Outdoor, cool white, IP66, LED, Aluminium",
+    "image": "/images/Street_light.jpg"
+  },
+  { 
+      "id": 24,
+    "name": "110W-130W AC Street Light",
+    "maincategory": "lights and Poles",
+    "price": "On Request",
+    "description": "Input Voltage:90-440 v, Usage: Outdoor, cool white, IP66, LED, Aluminium",
+    "image": "/images/Street_light.jpg"
+  },
+  {   
+      "id": 25,
+    "name": "140W-150W Led Street Light",
+    "maincategory": "lights and Poles",
+    "price": "On Request",
+    "description": "Input Voltage:90-400 watt, Power: 100 w, Sensor, Usage: Outdoor, cool white, IP66, LED, Aluminium",
+    "image": "/images/Street_light.jpg"
+   },
+  {   "id": 26,
+    "name": "170W-200W AC Street Light",
+    "maincategory": "lights and Poles",
+    "price": "On Request",
+    "description": "Input Voltage:90-400 watt, Usage: Outdoor, LED",
+    "image": "/images/Street_light.jpg"
+  },
+  {    "id": 27,
+    "name": "300w LED Street Light",
+    "maincategory": "lights and Poles",
+    "price": "On Request",
+    "description": "IP66, LED, Aluminium, Power: 300 w, Sensor, Usage: Outdoor, cool white",
+    "image": "/images/Street_light.jpg"
+  },
+  {    "id": 28,
+    "name": "60w LED Street Light",
+    "maincategory": "lights and Poles",
+    "price": "On Request",
+    "description": "IP65, LED, Aluminium, Power: 60 w, Usage: Outdoor, warm white",
+    "image": "/images/Street_light.jpg"
+  },
+  {    "id": 29,
+    "name": "Semi Integrated Solar Street Light",
+    "maincategory": "Solar Products",
+    "price": "On Request",
+    "description": "20 Watt Semi Integrated Solar Street Light, IP66, Pure white light, LED, Pipe mounting",
+    "image": "/images/solar_street_light.jpg"
+  },
+  { "id": 30,
+    "name": "Semi Integrated Solar Street Light",
+    "maincategory": "Solar Products",
+    "price": "On Request",
+    "description": "Size:32 MM, Material:GI, Class:Heavy Duty, Certification:BIS/ROHS",
+    "image": "/images/solar_street_light.jpg"
+  },
+  {
+    "id": 31,
+    "name": "30W-45W LED Flood Light",
+    "maincategory": "lights and Poles",
+    "price": "On Request",
+    "description": "Low-power LED flood lights designed for small-area illumination such as gardens, signboards, residential spaces, and pathways. These lights provide efficient brightness with low energy consumption and are ideal for decorative and security lighting in compact spaces. Built with weatherproof housing and long-life LEDs, they ensure reliable outdoor performance.",
+    "image": "/images/Flood_Light.jpg"
+  },
+  {
+    "id": 32,
+    "name": "50W-72W LED Flood Light",
+    "wattRange": "50W-72W",
+    "maincategory": "lights and Poles",
+    "price": "On Request",
+    "description": "Medium-intensity LED flood lights suitable for small commercial areas, parking spaces, building exteriors, and small playgrounds. They offer balanced brightness with uniform light distribution and improved coverage compared to lower wattage lights, making them ideal for both residential and light industrial use.",
+    "image": "/images/Flood_Light.jpg"
+  },
+  {
+    "id": 33,
+    "name": "75W-90W LED Flood Light",
+    "wattRange": "75W-90W",
+    "maincategory": "lights and Poles",
+    "price": "On Request",
+    "description": "High-efficiency LED flood lights designed for medium-sized outdoor areas such as warehouses, open yards, and institutional premises. These lights provide higher lumen output and wider beam coverage, ensuring better visibility and enhanced safety in commercial environments.",
+    "image": "/images/Flood_Light.jpg"
+  },
+  {
+    "id": 34,
+    "name": "110W-130W LED Flood Light",
+    "wattRange": "110W-130W",
+    "maincategory": "lights and Poles",
+    "price": "On Request",
+    "description": "High-performance LED flood lights ideal for large commercial spaces, industrial areas, and outdoor facilities. These lights deliver powerful illumination with excellent energy efficiency, making them suitable for continuous operation in demanding environments such as factories, large parking areas, and construction sites.",
+    "image": "/images/Flood_Light.jpg"
+  },
+  {
+    "id": 35,
+    "name": "140W-150W LED Flood Light",
+    "wattRange": "140W-150W",
+    "maincategory": "lights and Poles",
+    "price": "On Request",
+    "description": "Heavy-duty LED flood lights designed for high-brightness applications including large grounds, building facades, and infrastructure projects. With high lumen output and wide beam angles, these lights ensure uniform illumination across large areas while maintaining low power consumption and long operational life.",
+    "image": "/images/Flood_Light.jpg"
+  },
+  {
+    "id": 36,
+    "name": "170W-200W LED Flood Light",
+    "wattRange": "170W-200W",
+    "maincategory": "lights and Poles",
+    "price": "On Request",
+    "description": "Ultra high-power LED flood lights built for large-scale outdoor lighting such as stadiums, highways, industrial yards, and high-mast installations. These lights deliver intense brightness, wide coverage, and superior durability with IP-rated protection, making them ideal for critical infrastructure and high-visibility zones.",
+    "image": "/images/Flood_Light.jpg"
+  },
+  {
+    "id": 37,
+    "name": "400W-1000W LED Flood Light",
+    "maincategory": "lights and Poles",
+    "price": "On Request",
+    "description": "50W RGB LED flood light offering multi-color illumination. Ideal for architectural lighting, monuments, landscaping, and decorative outdoor use.",
+    "image": "/images/Flood_Light.jpg"
+  },
+  {
+    "id": 38,
+    "name": "10W LED Garden Light",
+    "maincategory": "lights and Poles",
+    "price": "On Request",
+    "description": "Energy-efficient 10W LED garden light suitable for parks, gardens, pathways, and residential landscapes. Provides uniform illumination with long life.",
+    "image": "/images/garden_light.jpg"
+  },
+  {
+    "id": 39,
+    "name": "20W LED Garden Light",
+    "maincategory": "lights and Poles",
+    "price": "On Request",
+    "description": "20W LED garden light designed for outdoor decorative lighting. Ideal for public gardens, societies, and commercial landscaping projects.",
+    "image": "/images/garden_light.jpg"
+  },
+  {
+    "id": 40,
+    "name": "30W LED Garden Light",
+    "maincategory": "lights and Poles",
+    "price": "On Request",
+    "description": "High-brightness 30W LED garden light suitable for large gardens, parks, and institutional outdoor areas.",
+    "image": "/images/garden_light.jpg"
+  },
+  {
+    "id": 41,
+    "name": "Pole Mounted Garden Light",
+    "maincategory": "lights and Poles",
+    "price": "On Request",
+    "description": "Pole-mounted LED garden light designed for pathways, parks, and outdoor common areas. Durable body suitable for all weather conditions.",
+    "image": "/images/pole_garden_light.jpg"
+  },
+  {
+    "id": 42,
+    "name": "Bollard LED Garden Light",
+    "maincategory": "lights and Poles",
+    "price": "On Request",
+    "description": "Bollard-type LED garden light ideal for walkways, lawns, and landscaped pathways. Enhances safety and aesthetics.",
+    "image": "/images/bollard_light.jpg"
+  },
+  {
+    "id": 43,
+    "name": "Spike Garden Light",
+    "maincategory": "lights and Poles",
+    "price": "On Request",
+    "description": "Spike-mounted LED garden light for highlighting plants, trees, and landscape features. Easy installation and flexible positioning.",
+    "image": "/images/spike_garden_light.jpg"
+  },
+  {
+    "id": 44,
+    "name": "Solar LED Garden Light",
+    "maincategory": "Solar Products",
+    "price": "On Request",
+    "description": "Solar-powered LED garden light with inbuilt battery and dusk-to-dawn operation. Suitable for eco-friendly outdoor lighting.",
+    "image": "/images/solar_garden_light.jpg"
+  },
+  {
+    "id": 45,
+    "name": "Decorative Garden Light",
+    "maincategory": "lights and Poles",
+    "price": "On Request",
+    "description": "Decorative LED garden light for landscaping, resorts, monuments, and architectural outdoor spaces.",
+    "image": "/images/decorative_light.jpg"
+  },
+  
+  {
+    "id": 46,
+    "name": "12W LED Panel Light",
+    "maincategory": "lights and Poles",
+    "price": "On Request",
+    "description": "Energy-efficient 12W LED panel light suitable for offices, classrooms, hospitals, and commercial interiors. Provides uniform glare-free illumination.",
+    "image": "/images/panel_light.jpg"
+  },
+  {
+    "id": 47,
+    "name": "18W LED Panel Light",
+    "maincategory": "lights and Poles",
+    "price": "On Request",
+    "description": "18W LED panel light designed for false ceilings in offices and institutions. Long lifespan with low power consumption.",
+    "image": "/images/panel_light.jpg"
+  },
+  {
+    "id": 48,
+    "name": "24W LED Panel Light",
+    "maincategory": "lights and Poles",
+    "price": "On Request",
+    "description": "High-lumen 24W LED panel light ideal for conference rooms, commercial spaces, and educational institutions.",
+    "image": "/images/panel_light.jpg"
+  },
+  {
+    "id": 49,
+    "name": "36W LED Panel Light",
+    "maincategory": "lights and Poles",
+    "price": "On Request",
+    "description": "36W LED panel light suitable for large offices, hospitals, and public buildings. Ensures bright and uniform lighting.",
+    "image": "/images/panel_light.jpg"
+  },
+  {
+    "id": 50,
+    "name": "Square LED Panel Light",
+    "maincategory": "lights and Poles",
+    "price": "On Request",
+    "description": "Square-shaped LED panel light designed for modular ceilings. Ideal for commercial and institutional interiors.",
+    "image": "/images/panel_light.jpg"
+  },
+  {
+    "id": 51,
+    "name": "Round LED Panel Light",
+    "maincategory": "lights and Poles",
+    "price": "On Request",
+    "description": "Round LED panel light suitable for homes, offices, and corridors. Easy installation and low maintenance.",
+    "image": "/images/round_panel_light.jpg"
+  },
+  {
+    "id": 52,
+    "name":"Slim LED Panel Light",
+    "maincategory": "lights and Poles",
+    "price": "On Request",
+    "description": "Ultra-slim LED panel light designed for modern interiors with limited ceiling depth.",
+    "image": "/images/slim_panel_light.jpg"
+  },
+  {
+    "id": 53,
+    "name": "Surface Mounted LED Panel Light",
+    "maincategory": "lights and Poles",
+    "price": "On Request",
+    "description": "Surface-mounted LED panel light for areas without false ceilings. Ideal for offices, shops, and institutions.",
+    "image": "/images/panel_light.jpg"
+  },
+  {
+    "id": 54,
+    "name": "Recessed LED Panel Light",
+    "maincategory": "lights and Poles",
+    "price": "On Request",
+    "description": "Recessed LED panel light for seamless integration into ceilings. Provides uniform lighting for commercial and institutional spaces.",
+    "image": "/images/round_panel_light.jpg"
+  },
+  {
+    "id": 55,
+    "name": "Mobile Toilet Van",
+    "maincategory": "Swachh",
+    "price": "On Request",
+    "description": "Readymade, Light weight, Easy to transport, Tough and durable, Inbuilt water storage tank, Aesthetic",
+    "image": "/images/mobile_toilet.jpg"
+   },
+   {
+    "id": 56,
+    "name": "Sugam Toilet",
+    "maincategory": "Swachh",
+    "price": "On Request",
+    "description": "Readymade, Made with superior grades of plastic, 100% rust and corrosion proof, Light weight, Easy to install, Tough and durable, Easy to clean and maintain, Portable",
+    "image": "/images/sugam_toilet.jpg"
+   },
+    {
+      "id": 58,
+      "name": "Portolate Portable Toilet, Bathroom & Urinal",
+      "maincategory": "Swachh",
+      "price": "On Request",
+      "description": "Toilet block Indian style Code- IES30040A, Toilet block European style Code- IES30040B, Bathroom block Code- IES30040C, Urinal block Code- IES30040D, Dimensions- 1.075m*.91cm*2m, Available in ready to use condition, Plug and use design, Maintenance free, Durable, Easy to relocate, Can be fitted with septic tanks or other attachments as per request",
+      "image": "/images/mobile_toilet.jpg"
+    },
+    {
+      "id": 59,
+      "name": "Septic Tank",
+      "maincategory": "Swachh",
+      "price": "On Request",
+      "description": "Eco friendly, Rust proof and leak proof, Durable, Light weight and easy to transport, Easy to install, Economical than conventional septic system, Excellence performance on reeducation of BOD",
+      "image": "/images/septic_tank.jpg"
+    },
+    {
+      "id": 60,
+      "name": "Waste Containers",
+      "maincategory": "Swachh",
+      "price": "On Request",
+      "description": "Easy to move, Light weighted, Eco friendly, Cost efficient",
+      "image": "/images/waste_containers.jpg"
+     },
+      {
+        "id": 61,
+        "name": "Rectangular Waste Bins",
+        "maincategory": "Swachh",
+        "price": "On Request",
+        "description": "Standard color - Military green , dark blue, bright red, yellow, Standard packing – 5 per bag, Customize color available",
+        "image": "/images/waste_containers.jpg"
+      },
+      {
+        "id": 62,
+        "name": "Litter Bins With Permanent Structure",
+        "maincategory": "Swachh",
+        "price": "On Request",
+        "description": "Standard color - Military green , dark blue, bright red, yellow, Standard packing-5 per bag, Customize color available",
+        "image": "/images/permanent_structure.jpg"
+      },
+      {
+        "id": 63,
+        "name": "Secondary Waste Collection (Street Collection/Door to Door Collection) Wheeled Waste Containers",
+        "maincategory": "Swachh",
+        "price": "On Request",
+        "description": "Standard color-Military Green, Dark Blue, Red, Standard packing-3 per box, Capacity- 90Litres,120Litres,140Litres,240Litres,330Litres",
+        "image": "/images/wheeled_containers.jpg"
+      },
+      {
+        "id": 64,
+        "name": "Waste Collection Bins",
+        "maincategory": "Swachh",
+        "price": "On Request",
+        "description": "Standard color-Military Green, Dark Blue, Red, Standard packing-3 per box, Capacity- 90Litres,120Litres,140Litres,240Litres,330Litres",
+        "image": "/images/waste_containers.jpg"
+      },
+      {
+        "id": 65,
+        "name": "Wheel Barrow",
+        "maincategory": "Swachh",
+        "price": "On Request",
+        "description": "Standard Color-Aquamarine green & dark blue, Standard packing-1 per piec",
+        "image": "/images/wheelbarrow.jpg"
+     },
+     {
+      "id": 66,
+      "name": "Segregation Container for Pedal Rickshaw",
+      "maincategory": "Swachh",
+      "price": "On Request",
+      "description": "Standard Color -Aqua green and dark blue, Capacity -500Litres",
+      "image": "/images/rickshaw.jpg"
+    },
+      {
+        "id": 67,
+        "name": "Water Tanker",
+        "maincategory": "Swachh",
+        "price": "On Request",
+        "description": "High-capacity water tanker designed for efficient water transportation and distribution, fabricated from heavy-duty mild steel with capacities ranging from 2000–10000 liters and mounted on truck or tractor chassis for versatile applications.",
+        "image": "/images/water.jpg"
+      },
+      {
+        "id": 68,
+        "name": "Hydraulic Trolley",
+        "maincategory": "Swachh",
+        "price": "On Request",
+        "description": "Robust hydraulic trolley engineered for material handling and waste transport, featuring a mild steel body, hydraulic lifting mechanism, and load capacities suitable for industrial and municipal operations.",
+        "image": "/images/hydraulic.jpg"
+      },
+      {
+        "id": 69,
+        "name": "Garbage Tipper",
+        "maincategory": "Swachh",
+        "price": "On Request",
+        "description": "Hydraulically operated garbage tipper used for efficient collection and disposal of municipal waste, equipped with a mild steel body, 3–5 cubic meter capacity, and hydraulic tipping system for quick unloading.",
+        "image": "/images/garbage_tipper.jpg"
+      },
+      {
+        "id": 70,
+        "name": "Sewer Suction cum Jetting Machine",
+        "maincategory": "Swachh",
+        "price": "On Request",
+        "description": "Multi-purpose sewer cleaning machine combining high-pressure jetting and vacuum suction, with tank capacities ranging from 2000–8000 liters, operating pressure up to 130 bar, and mild steel construction for heavy-duty applications.",
+        "image": "/images/suction.jpg"
+      },
+      {
+        "id": 71,
+        "name": "Cattle Catcher",
+        "maincategory": "Swachh",
+        "price": "On Request",
+        "description": "Specialized municipal equipment designed for safe and efficient capturing and transportation of stray animals, built with reinforced steel structure and hydraulic or manual operation systems.",
+        "image": "/images/cattle.jpg"
+      },
+      {
+        "id": 72,
+        "name": "Sewer Jetting machine",
+        "maincategory": "Swachh",
+        "price": "On Request",
+        "description": "High-pressure jetting machine used for clearing sewer blockages, featuring water tank capacities of 2000–4000 liters, pressure up to 120–150 bar, and truck-mounted design for efficient field operations.",
+        "image": "/images/sewer.jpg"
+      },
+      {
+        "id": 73,
+        "name": "Refuse Compactor",
+        "maincategory": "Swachh",
+        "price": "On Request",
+        "description": "Advanced waste management vehicle designed for compressing and transporting solid waste, equipped with hydraulic compaction system, large storage capacity, and durable mild steel body for municipal and industrial use.",
+        "image": "/images/refuse.jpg"
+      },
+      {
+        "id": 74,
+        "name": "Tracker Mounted Water Tanker",
+        "maincategory": "Swachh",
+        "price": "On Request",
+        "description": "Tractor-mounted water tanker ideal for rural and agricultural applications, featuring durable mild steel tank construction, capacities ranging from 2000–6000 liters, and PTO-driven water discharge system.",
+        "image": "/images/water_tanker.jpg"
+      },
+      {
+        "id": 75,
+        "name": "Garbage Rickshaw",
+        "maincategory": "Swachh",
+        "price": "On Request",
+        "description": "Compact waste collection vehicle designed for urban and residential areas, available in manual and electric variants, offering eco-friendly operation, easy maneuverability, and optimized waste carrying capacity.",
+        "image": "/images/garbage.jpg"
+      },
+      {
+        "id": 76,
+        "name": "Garbage E-Rickshaw",
+        "maincategory": "Swachh",
+        "price": "On Request",
+        "description": "Compact waste collection vehicle designed for urban and residential areas, available in manual and electric variants, offering eco-friendly operation, easy maneuverability, and optimized waste carrying capacity.",
+        "image": "/images/garbage.jpg"
+      },
+      {
+        "id": 77,
+        "name": "Dumper Placer",
+        "maincategory": "Swachh",
+        "price": "On Request",
+        "description": "Heavy-duty dumper placer system used for lifting, transporting, and placing waste containers, equipped with hydraulic lifting mechanism, high load capacity, and compatibility with various container sizes for efficient waste handling.",
+        "image": "/images/dumper_placer.jpg"
+      },
+      {
+        "id": 78,
+        "name": "3M-9M Decorative Poles",
+        "maincategory": "lights and Poles",
+        "price": "On Request",
+        "description": "Aesthetic decorative lighting pole crafted for urban landscapes, parks, and commercial areas, made from high-grade steel or cast iron with powder-coated finish, combining durability with elegant design and customizable heights.",
+        "image": "/images/decorative_pole.jpg"
+      },
+      {
+        "id": 79,
+        "name": "Galvanised Iron Light Poles",
+        "maincategory": "lights and Poles",
+        "price": "On Request",
+        "description": "Durable galvanized iron pole manufactured using high-quality mild steel with hot-dip galvanization for superior corrosion resistance, available in various heights and suitable for street lighting and infrastructure applications",
+        "image": "/images/gi_pole.jpg"
+      },
+      {
+        "id": 80,
+        "name": "12M-16M High Mast Poles",
+        "maincategory": "lights and Poles",
+        "price": "On Request",
+        "description": "Heavy-duty high mast lighting pole designed for large area illumination such as highways, stadiums, and industrial zones, fabricated from high tensile steel with hot-dip galvanization, available in heights ranging from 12-16 meters with motorized lowering system.",
+        "image": "/images/high_mast.jpg"
+      },
+      {
+        "id": 81,
+        "name": "20M-40M High Mast Poles",
+        "maincategory": "lights and Poles",
+        "price": "On Request",
+        "description": "Heavy-duty high mast lighting pole designed for large area illumination such as highways, stadiums, and industrial zones, fabricated from high tensile steel with hot-dip galvanization, available in heights ranging from 20-40 meters with motorized lowering system.",
+        "image": "/images/high_mast.jpg"
+      },
+      {
+        "id": 82,
+        "name": "5M-12M Octagonal Poles",
+        "maincategory": "lights and Poles",
+        "price": "On Request",
+        "description": "Precision-engineered octagonal pole manufactured from high-strength steel sheets, tapered and welded for enhanced load-bearing capacity, hot-dip galvanized for corrosion protection, commonly used for street lighting and roadway illumination (5-12 meters height range).",
+        "image": "/images/octagonal_pole.jpg"
+      }
+      ]
+
+
