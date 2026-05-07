@@ -10,8 +10,8 @@ export const submitEnquiry = async (req, res) => {
       organization,
       category,
       message,
-      product,   // ✅ NEW
-      type       // ✅ NEW (general / product)
+      product,
+      type,
     } = req.body;
 
     // ================= DATABASE SAVE =================
@@ -30,8 +30,14 @@ export const submitEnquiry = async (req, res) => {
       type || "general"
     );
 
-    // ================= SEND EMAIL =================
-    await sendEnquiryMail({
+    // ================= INSTANT RESPONSE =================
+    res.json({
+      success: true,
+      message: "Enquiry submitted successfully",
+    });
+
+    // ================= SEND EMAIL IN BACKGROUND =================
+    sendEnquiryMail({
       name,
       email,
       phone,
@@ -42,17 +48,12 @@ export const submitEnquiry = async (req, res) => {
       type,
     });
 
-    return res.json({
-      success: true,
-      message: "Enquiry submitted successfully",
-    });
-
   } catch (error) {
     console.error("❌ ENQUIRY ERROR:", error);
 
     return res.status(500).json({
       success: false,
-      message: "Saved, but email failed",
+      message: "Failed to submit enquiry",
     });
   }
 };

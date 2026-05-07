@@ -1,33 +1,20 @@
-import nodemailer from "nodemailer";
+import { Resend } from "resend";
+
+const resend = new Resend(process.env.RESEND_API_KEY);
 
 export const sendEnquiryMail = async (enquiry) => {
   try {
-    const transporter = nodemailer.createTransport({
-      service: "gmail",
-      auth: {
-        user: process.env.EMAIL_USER,
-        pass: process.env.EMAIL_PASS,
-      },
-    });
-
-    // ✅ Verify connection
-    await transporter.verify();
-    console.log("✅ Mail server is ready");
-
-    // ================= DETERMINE TYPE =================
     const isProduct = enquiry.type === "product";
 
-    // ================= SUBJECT =================
     const subject = isProduct
       ? `[HEDIS] 🛒 Product Enquiry - ${enquiry.product}`
       : `[HEDIS] 📩 General Enquiry`;
 
-    // ================= EMAIL CONTENT =================
     const html = isProduct
       ? `
         <div style="font-family:Arial,sans-serif;">
           <h2 style="color:#2563eb;">🛒 Product Enquiry</h2>
-          
+
           <p><strong>Product:</strong> ${enquiry.product}</p>
           <hr/>
 
@@ -56,23 +43,20 @@ export const sendEnquiryMail = async (enquiry) => {
         </div>
       `;
 
-    // ================= MAIL OPTIONS =================
-    const mailOptions = {
-      from: `"HEDIS Website" <${process.env.EMAIL_USER}>`,
-      to: process.env.ADMIN_EMAIL || process.env.EMAIL_USER, // ✅ fallback
-      replyTo: enquiry.email,
+    const response = await resend.emails.send({
+      from: "onboarding@resend.dev", // ✅ test sender
+      to: process.env.ADMIN_EMAIL,   // ✅ your email
+      reply_to: enquiry.email,
       subject,
       html,
-    };
+    });
 
-    const info = await transporter.sendMail(mailOptions);
-
-    console.log("✅ Email sent:", info.response);
+    console.log("✅ Email sent:", response);
 
     return true;
 
   } catch (error) {
-    console.error("❌ Mail error:", error);
+    console.error("❌ Email failed:", error);
     return false;
   }
 };
